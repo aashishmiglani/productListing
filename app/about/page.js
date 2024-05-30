@@ -12,7 +12,7 @@ const AboutMe = () => {
             <div>
               <h2 className="text-xl sm:text-2xl font-semibold mb-2">Education:</h2>
               <p className="text-sm sm:text-base text-gray-700">
-                I completed my Bachelor's degree in Computer Science and Engineering from CT University, Ludhiana, from 2019 to 2023. During my time at university, I gained a comprehensive understanding of various computer science concepts, including data structures, algorithms, and software engineering principles. This educational background has equipped me with the necessary skills to tackle complex problems and develop innovative solutions in the field of technology.
+                I completed my Bachelor&apos;s degree in Computer Science and Engineering from CT University, Ludhiana, from 2019 to 2023. During my time at university, I gained a comprehensive understanding of various computer science concepts, including data structures, algorithms, and software engineering principles. This educational background has equipped me with the necessary skills to tackle complex problems and develop innovative solutions in the field of technology.
               </p>
             </div>
             <div>
