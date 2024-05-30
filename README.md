@@ -1,7 +1,7 @@
 Steps to run the app
 
 1. Open terminal and install all the packages by running "npm install" command in the VS code terminal
-2. When all the dependencies will be installed then run "npm run start" in the VS code terminal
+2. When all the dependencies will be installed then run "npm run dev" in the VS code terminal
 3. After running the commnad if the borweser doesnt open automatically open any browser and paste the URL "http://localhost:3000/"
 
 
