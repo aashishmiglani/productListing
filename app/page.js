@@ -1,4 +1,5 @@
 "use client"
+import 'tailwindcss/tailwind.css';
 import Navbar from "@/Components/Navbar";
 import { AppContext } from "@/context/contextProvider"
 import { useContext, useEffect } from 'react';
